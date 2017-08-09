@@ -1,7 +1,7 @@
 # starting-with-react
 React.JS - Basic Project using react
 
-Starting with React, project that teaches basic concepts of components, composition include data in the form.
+Starting with React, project that teaches basic concepts of components, composition, include data in the form.
 
 * First component
 * Props
